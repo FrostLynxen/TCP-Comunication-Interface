@@ -1,4 +1,3 @@
-TCP Echo Server and Tkinter GUI TCP Client
 This project demonstrates a basic TCP/IP echo server and a simple GUI-based TCP client built using Python and Tkinter. The server listens for incoming connections, receives messages, and echoes them back. The client connects to the server, allows the user to type messages, and displays both sent and received messages in a scrollable text area.
 
 Echo Server:
